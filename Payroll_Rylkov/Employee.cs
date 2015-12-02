@@ -63,7 +63,7 @@ namespace Payroll_Rylkov
             builder.Append(" by ").Append(method);
             return builder.ToString();
 
-        }
+        } 
 
 
     }

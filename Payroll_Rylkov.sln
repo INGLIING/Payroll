@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll_Rylkov", "Payroll_R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollTest_Rylkov", "PayrollTest_Rylkov\PayrollTest_Rylkov.csproj", "{E2AAB0A8-35AB-4CAC-9374-47C2850B8125}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEmployeeToString", "TestEmployeeToString\TestEmployeeToString.csproj", "{E5B04971-CE69-45CB-93AE-CD84D3D43135}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{E2AAB0A8-35AB-4CAC-9374-47C2850B8125}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2AAB0A8-35AB-4CAC-9374-47C2850B8125}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2AAB0A8-35AB-4CAC-9374-47C2850B8125}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E5B04971-CE69-45CB-93AE-CD84D3D43135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E5B04971-CE69-45CB-93AE-CD84D3D43135}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E5B04971-CE69-45CB-93AE-CD84D3D43135}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E5B04971-CE69-45CB-93AE-CD84D3D43135}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

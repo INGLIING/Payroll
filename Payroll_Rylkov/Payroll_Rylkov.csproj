@@ -39,12 +39,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddCommissionedEmployee.cs" />
+    <Compile Include="AddEmployeeTransaction.cs" />
+    <Compile Include="AddSalariedEmployee.cs" />
     <Compile Include="Affiliation.cs" />
+    <Compile Include="BiweeklySchedule.cs" />
+    <Compile Include="CommissionedClassification.cs" />
+    <Compile Include="DeleteEmployeeTransaction.cs" />
     <Compile Include="Employee.cs" />
+    <Compile Include="HoldMethod.cs" />
+    <Compile Include="MonthlySchedule.cs" />
     <Compile Include="PaymentClassification.cs" />
     <Compile Include="PaymentMethod.cs" />
     <Compile Include="PaymentSchedule.cs" />
+    <Compile Include="PayrollDatabase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SalariedClassification.cs" />
+    <Compile Include="TimeCard.cs" />
+    <Compile Include="TimeCardTransaction.cs" />
+    <Compile Include="Transaction.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
